@@ -1,0 +1,16 @@
+body {background-color: #EAF6F6;}
+hr   { border-style:none;
+       border-top-style: dotted;
+       border-colour:grey;
+       border-width:5px;
+       width: 100%; }
+img {border-radius: 50%;}
+h3 {color:#0943d6;
+    font-family: papyrus;}
+h1 {color:#093ab4;
+font-family: Brush script MT;}
+.About{font-family: papyrus;}
+p {font-family: Comic Sans MS;}
+li {font-family: Comic Sans MS;}
+td {font-family: Comic Sans MS;}
+
